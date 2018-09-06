@@ -3,6 +3,8 @@ Simple Python Program To Download Any Video At The Best Quality On Youtube
 
 ## Requirements:
 
+Python 2.6+
+
 [pafy](https://github.com/mps-youtube/pafy)
 
 YT Downloader Uses pafy As A Library To Download and Grab Video Information.
